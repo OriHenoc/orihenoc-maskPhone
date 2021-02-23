@@ -15,4 +15,5 @@ Connaître le html et le javascript
 
 ## Dédicace
 
-CED_SEYE
+@CED_SEYE
+@C0MM1T-L34D3R
