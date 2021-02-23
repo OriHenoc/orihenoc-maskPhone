@@ -1,4 +1,4 @@
-#orihenoc-maskPhone
+# orihenoc-maskPhone
 
 Simple script de formatage de champ input type tel sans regex (pure javascript)
 
