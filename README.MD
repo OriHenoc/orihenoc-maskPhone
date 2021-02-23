@@ -13,7 +13,8 @@ Connaître le html et le javascript
   <li>Importez le script dans votre page où vous avez fait le formulaire.</li>
 </ol>
 
-## Dédicace
+## Dédicaces
 
 @CEDSEY
+<br>
 @C0MM1T-L34D3R
